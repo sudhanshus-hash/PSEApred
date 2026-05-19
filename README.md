@@ -112,6 +112,3 @@ Department of Computational Biology, Indraprastha Institute of Information Techn
 ## Support
 This work was supported by the Council of Scientific and Industrial Research and the Department of Biotechnology, Government of India.
 
-The authors also acknowledge Institute of Microbial Technology support.
-
-This work has IMTECH communication number 064/2005.
