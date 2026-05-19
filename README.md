@@ -13,7 +13,7 @@ Web Server: http://www.imtech.res.in/raghava/pseapred/
 Verma, R., Tiwari, A., Kaur, S., Varshney, G. C., and Raghava, G. P. S. Identification of proteins secreted by malaria parasite into erythrocyte using SVM and PSSM profiles. BMC Bioinformatics, 9, 201, 2008.
 https://doi.org/10.1186/1471-2105-9-201
 
-This tool and dataset is also available on Zenodo at 
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20290600
 
 
 
